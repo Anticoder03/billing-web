@@ -1,0 +1,92 @@
+i  want ot create a website and it create invoice use php and mysql
+create a navba(sidebar)r which show a navbar with logo and name
+
+and in invoice module it show two optioon create invoice and show invoice 
+in show invoice it show 3 option view (reditect to new page and there also provide the download the invoice as pdf us js library for this and use cdns)
+and edit and delete options 
+
+and do same for the bill as well and provide a dashboard 
+
+and also create payment page and do connect them
+
+and at last create leagel document pages where we create a legal doc and take the company and the client sign
+and make them download 
+
+use tailwind css for style and font awosome for icon
+
+
+the leagal documents contains
+
+WEBSITE / SOFTWARE SERVICE AGREEMENT
+
+This Agreement is made on ___ / ___ / 20__, between:
+
+Service Provider:
+Name: __________________________
+Address: _______________________
+
+Client:
+Name: __________________________
+Address: _______________________
+
+Both parties agree to the following terms:
+
+1. Purpose
+
+The Client engaged the Service Provider for website and/or software development services. An amount has already been paid by the Client and has not been refunded. This Agreement confirms how the paid amount will be adjusted and what will be delivered.
+
+2. Services & Deliverables
+
+The Service Provider agrees to deliver the following:
+
+Website / Software development
+
+Admin panel (if applicable)
+
+Database and basic functionality
+
+Source code (if included in the original discussion)
+
+Testing and basic support
+
+Any additional features will be mutually agreed in writing.
+
+3. Payment Understanding
+
+Total Project Amount: ₹ __________
+
+Amount Paid: ₹ __________
+
+The above paid amount shall be adjusted against the final delivery of the website/software and shall not be refunded, unless otherwise mutually agreed in writing.
+
+4. Delivery Timeline
+
+The Service Provider agrees to deliver the completed project within ___ days from the date of this Agreement, subject to timely inputs and approvals from the Client.
+
+5. Ownership
+
+Upon full payment and project completion, all rights related to the website/software will belong to the Client. Until then, the Service Provider retains ownership.
+
+6. Confidentiality
+
+Both parties agree to keep all project-related information confidential and not share it with any third party without consent.
+
+7. Governing Law
+
+This Agreement shall be governed by the laws of India, and any dispute shall be subject to the jurisdiction of __________ (City/State).
+
+8. Mutual Understanding
+
+This Agreement is made with mutual consent, in good faith, and replaces any prior verbal understanding.
+
+Accepted and Agreed
+
+Service Provider
+Signature: ____________________
+Name: _______________________
+Date: _______________________
+
+Client
+Signature: ____________________
+Name: _______________________
+Date: _______________________
